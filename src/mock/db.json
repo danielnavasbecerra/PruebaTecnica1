@@ -1,0 +1,8 @@
+{
+  "products": [
+    { "id": 1, "name": "Laptop", "price": 1200, "image": "https://png.pngtree.com/png-vector/20191026/ourmid/pngtree-laptop-icon-png-image_1871608.jpg" },
+    { "id": 2, "name": "Phone", "price": 800, "image": "https://png.pngtree.com/png-clipart/20230513/ourmid/pngtree-black-mobile-phone-png-image_7097040.png" },
+    { "id": 3, "name": "Headphones", "price": 150, "image": "https://atlas-content-cdn.pixelsquid.com/stock-images/professional-headphones-Va4B8y5-600.jpg" }
+  ],
+  "cart": []
+}
